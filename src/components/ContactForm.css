@@ -1,0 +1,25 @@
+#main{
+    display: flex;
+    flex-direction: row;
+    gap: 7%;
+    align-items: end;
+}
+
+
+
+.full_form{
+    width: 50%;
+}
+
+.contact_image {
+    width: 50%;
+    height: 80%;
+}
+
+.call {
+    display: flex;
+    flex-direction: row;
+    gap: 15%;
+    margin: 5%;
+    width: 40%;
+}

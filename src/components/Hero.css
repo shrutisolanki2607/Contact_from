@@ -1,0 +1,16 @@
+h1{
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+.hero{
+        display: flex;
+        flex-direction: row;
+        justify-self: flex-start;
+}
+
+.detail{
+    width: 80%;
+    color: rgb(73, 71, 71);
+    font-weight: 600;
+}

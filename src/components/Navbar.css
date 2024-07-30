@@ -1,0 +1,15 @@
+
+.navbar {
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   max-height: 72px;
+  
+}
+
+.me-auto {
+    list-style-type: none;
+    display: flex;
+    gap: 24px;
+    font-weight: 500;
+}

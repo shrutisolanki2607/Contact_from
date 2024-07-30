@@ -1,0 +1,15 @@
+.call_btn{
+    background-color: black;
+    color: white;
+    min-width: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin: 10px 10px ;
+ }
+
+ .sub_btn{
+    background-color: black;
+    color: white;
+ }
